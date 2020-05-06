@@ -1,3 +1,1 @@
-# Java Projects
-This is for java projects->
-1. ChatApplication
+A very basic Chat Application using Java Socket Programming and Netbeans.
